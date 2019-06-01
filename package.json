@@ -51,7 +51,7 @@
     "getstats": "latest",
     "multistreamsmixer": "latest",
     "recordrtc": "latest",
-    "rtcmulticonnection-server": "latest",
+    "rtcmulticonnection-server": "git+https://github.com/tearsofphoenix/RTCMultiConnection-Server.git",
     "socket.io": "latest",
     "webrtc-adapter": "latest",
     "webrtc-screen-capturing": "latest"
